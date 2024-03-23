@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count} and iam yash bhai ji sugandhi ki jai ho ho ho jayega
+          count is {count} and iam yash bhai ji sugandhi ki jai ho ho ho jayega jay shree ram
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
